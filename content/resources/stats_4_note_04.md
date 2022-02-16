@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-874-quantitative-research-methods-multivariate-spring-2004/719bf776839f05ff0f208d3c27f312e0_stats_4_note_04.pdf
+file: /media/courses/17-874-quantitative-research-methods-multivariate-spring-2004/719bf776839f05ff0f208d3c27f312e0_stats_4_note_04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: stats_4_note_04.pdf
 uid: 719bf776-839f-05ff-0f20-8d3c27f312e0

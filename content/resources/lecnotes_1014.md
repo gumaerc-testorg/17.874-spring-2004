@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-874-quantitative-research-methods-multivariate-spring-2004/13f409437d9d55f2660cc3c8deccd5e5_lecnotes_1014.pdf
+file: /media/courses/17-874-quantitative-research-methods-multivariate-spring-2004/13f409437d9d55f2660cc3c8deccd5e5_lecnotes_1014.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Calendar
+parent_type: CourseSection
 resourcetype: Document
 title: lecnotes_1014.pdf
 uid: 13f40943-7d9d-55f2-660c-c3c8deccd5e5
