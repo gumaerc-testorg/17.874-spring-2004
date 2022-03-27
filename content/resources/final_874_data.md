@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 655ed24f-fdf3-18f8-8650-00f59ddd512a
 resourcetype: Other
 title: final_874_data.xls
 uid: 7c8f86ad-02e0-c007-6fa2-4bd83a56889f

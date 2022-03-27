@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2243e45e-1397-db6a-4bda-eb5f8d3c0bca
 resourcetype: Other
 title: resvote_example.dta
 uid: b6edbc34-d545-8301-a7f2-46ad9dab793a

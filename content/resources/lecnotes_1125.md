@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 4c2fd5cd-fcf5-8fd0-0089-8f6af9a5c666
 resourcetype: Document
 title: lecnotes_1125.pdf
 uid: 85c0c43b-7259-b55a-ecfc-778ab696905e

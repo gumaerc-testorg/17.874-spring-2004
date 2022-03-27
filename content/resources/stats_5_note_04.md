@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b43927fd-11dd-2e91-dace-6fd255d50af9
 resourcetype: Document
 title: stats_5_note_04.pdf
 uid: f15b214d-b3da-0a10-c335-07b7d3571340

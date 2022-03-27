@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 2243e45e-1397-db6a-4bda-eb5f8d3c0bca
 resourcetype: Other
 title: HOUSE.XLS
 uid: b01721b3-d518-815a-dd82-2ff4e2c04f86

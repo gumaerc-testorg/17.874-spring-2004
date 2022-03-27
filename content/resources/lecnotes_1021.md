@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 4c2fd5cd-fcf5-8fd0-0089-8f6af9a5c666
 resourcetype: Document
 title: lecnotes_1021.pdf
 uid: 738c09cf-3d6b-d79b-8624-d9674143301d
