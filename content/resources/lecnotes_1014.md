@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-874-quantitative-research-methods-multivariate-spring-2004/13f409437d9d55f2660cc3c8deccd5e5_lecnotes_1014.pdf
+file: /courses/17-874-quantitative-research-methods-multivariate-spring-2004/13f409437d9d55f2660cc3c8deccd5e5_lecnotes_1014.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

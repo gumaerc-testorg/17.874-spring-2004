@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-874-quantitative-research-methods-multivariate-spring-2004/71252609c2a0fb761c0fb4f666f92460_stats_7_note_04.pdf
+file: /courses/17-874-quantitative-research-methods-multivariate-spring-2004/71252609c2a0fb761c0fb4f666f92460_stats_7_note_04.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

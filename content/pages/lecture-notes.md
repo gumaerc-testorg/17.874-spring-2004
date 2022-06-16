@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/stats_1_note_04))
+Introduction ({{% resource_link 2ae284a3-1eb4-d9b8-8eb3-1c417499be42 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/stats_1_note_04))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Matrix Algebra ([PDF]({{< baseurl >}}/resources/stats_2_note_04))
+Matrix Algebra ({{% resource_link c095b2e5-6889-5b8d-b020-5dec200f6147 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Matrix Algebra ([PDF]({{< baseurl >}}/resources/stats_2_note_04))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Regression Model ([PDF]({{< baseurl >}}/resources/stats_3_note_04))
+Regression Model ({{% resource_link 1519b794-dc96-bc5b-21ca-8020d44b29d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Regression Model ([PDF]({{< baseurl >}}/resources/stats_3_note_04))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Nonlinear Models ([PDF]({{< baseurl >}}/resources/stats_4_note_04))
+Nonlinear Models ({{% resource_link 719bf776-839f-05ff-0f20-8d3c27f312e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Nonlinear Models ([PDF]({{< baseurl >}}/resources/stats_4_note_04))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Sensitivity and Weights ([PDF]({{< baseurl >}}/resources/stats_5_note_04))
+Sensitivity and Weights ({{% resource_link f15b214d-b3da-0a10-c335-07b7d3571340 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Sensitivity and Weights ([PDF]({{< baseurl >}}/resources/stats_5_note_04))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Panel Models ([PDF]({{< baseurl >}}/resources/stats_6_note_04))
+Panel Models ({{% resource_link f54b4f54-0b13-dfd2-d040-8e24c63f328b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Panel Models ([PDF]({{< baseurl >}}/resources/stats_6_note_04))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Systems of Equations ([PDF]({{< baseurl >}}/resources/stats_7_note_04))
+Systems of Equations ({{% resource_link 71252609-c2a0-fb76-1c0f-b4f666f92460 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
