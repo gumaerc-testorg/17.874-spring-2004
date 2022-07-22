@@ -5,6 +5,7 @@ file: /courses/17-874-quantitative-research-methods-multivariate-spring-2004/52a
 file_type: application/octet-stream
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

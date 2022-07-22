@@ -4,6 +4,7 @@ description: ''
 file: /courses/17-874-quantitative-research-methods-multivariate-spring-2004/738c09cf3d6bd79b8624d9674143301d_lecnotes_1021.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
