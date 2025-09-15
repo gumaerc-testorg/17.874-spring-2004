@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-874-quantitative-research-methods-multivariate-spring-2004/52af23e2aa349811491855bcaaaa87bb_final_874_data.dta
+file: /ol-ocw-studio-app/courses/17-874-quantitative-research-methods-multivariate-spring-2004/52af23e2aa349811491855bcaaaa87bb_final_874_data.dta
+file_size: 62417
 file_type: application/octet-stream
 learning_resource_types:
 - Exams

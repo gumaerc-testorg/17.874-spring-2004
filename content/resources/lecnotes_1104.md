@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-874-quantitative-research-methods-multivariate-spring-2004/aca092c42af0db1fa0ae58a4854fadfc_lecnotes_1104.pdf
+file: /ol-ocw-studio-app/courses/17-874-quantitative-research-methods-multivariate-spring-2004/aca092c42af0db1fa0ae58a4854fadfc_lecnotes_1104.pdf
+file_size: 102488
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

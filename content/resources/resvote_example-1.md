@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-874-quantitative-research-methods-multivariate-spring-2004/b6edbc34d5458301a7f246ad9dab793a_resvote_example.dta
+file: /ol-ocw-studio-app/courses/17-874-quantitative-research-methods-multivariate-spring-2004/b6edbc34d5458301a7f246ad9dab793a_resvote_example.dta
+file_size: 6167952
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
